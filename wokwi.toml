@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\tarefa1-comunicacao-serial-03-02-uart-i2c-spi.hex'
+elf = 'build\tarefa1-comunicacao-serial-03-02-uart-i2c-spi.elf'
